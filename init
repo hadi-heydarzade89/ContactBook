@@ -1,0 +1,9 @@
+#!/usr/bin/env php
+<?php
+/**
+ * Contact book application
+ * 
+ * create tables
+ */
+require_once __DIR__.'/env.php';
+require_once __DIR__.'/config/Db.php';
